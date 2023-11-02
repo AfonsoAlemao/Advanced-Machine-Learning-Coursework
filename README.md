@@ -1,7 +1,6 @@
 # Advanced-Machine-Learning-Coursework
-
-**Authors**: Afonso Alemão, Rui Daniel
 ---
+**Authors**: Afonso Alemão, Rui Daniel
 
 ## 1. Introduction
   The project is divided into two main parts: **regression** and **image analysis**.
