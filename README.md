@@ -1,5 +1,6 @@
 # Advanced-Machine-Learning-Coursework
 
+**Authors**: Afonso Alemão, Rui Daniel
 ---
 
 ## 1. Introduction
