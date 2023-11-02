@@ -33,7 +33,7 @@ The focus here is on analyzing butterfly images to classify two types of pattern
 
 This is a binary classification task to predict the type of detected pattern. The input images are 30x30x3, considering RGB channels.
 
-## 5.2 Second Task: Segmentation of Eyespots
+### 5.2 Second Task: Segmentation of Eyespots
 
 The second task revolves around the segmentation of a specific type of eyespot found in butterflies of the *bicyclus anynana* species. These eyespots display a distinct white center, bordered by a black ring, which is then encompassed by a golden ring. The primary objective is to segment these into three separate areas:
 1. The white center
